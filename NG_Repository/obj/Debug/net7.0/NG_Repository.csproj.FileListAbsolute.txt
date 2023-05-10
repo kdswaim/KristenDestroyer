@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\bin\Debug\net7.0\NG_Repository.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\bin\Debug\net7.0\NG_Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\bin\Debug\net7.0\NG_Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\bin\Debug\net7.0\NG_data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\bin\Debug\net7.0\NG_data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\NG_Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\NG_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\NG_Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\NG_Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\NG_Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\NG_Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\NG_Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\refint\NG_Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\NG_Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_Repository\obj\Debug\net7.0\ref\NG_Repository.dll

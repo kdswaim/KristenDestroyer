@@ -2,13 +2,13 @@
     public class Player
     {
         public int ID {get; set;}
-        public string NAme {get; set;} = string.Empty;
+        public string Name {get; set;} = string.Empty;
         public int HealthPoints {get; set;} = 100;
 
         public bool IsDead{
             get
             {
-                return (HealthPoints <= 0) ? true : false;
+                return (HealthPoints <= 0);
             }
         }
 
@@ -24,10 +24,10 @@
 
         public List<Weapons> Items;
 
-        private Weapons criticism;
-        private Weapons laser;
-        private Weapons karate;
-        private Weapons sulfa;
+        private Weapons criticism = new Weapons("Criticism", 30);
+    private Weapons laser = new Weapons("Laser", 10);
+    private Weapons karate = new Weapons("Karate", 20);
+    private Weapons sulfa = new Weapons("Sulfa", 100);
 
         public void CritiqueHer(Enemy enemy, int attackPower = 30)
         {

@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\bin\Debug\net7.0\NG_data.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\bin\Debug\net7.0\NG_data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\bin\Debug\net7.0\NG_data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\obj\Debug\net7.0\NG_data.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\obj\Debug\net7.0\NG_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\obj\Debug\net7.0\NG_data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\obj\Debug\net7.0\NG_data.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\obj\Debug\net7.0\NG_data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\obj\Debug\net7.0\NG_data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\obj\Debug\net7.0\refint\NG_data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\obj\Debug\net7.0\NG_data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\NewGame\KristenDestroyer\NG_data\obj\Debug\net7.0\ref\NG_data.dll

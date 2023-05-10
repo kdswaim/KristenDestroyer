@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NG.UI/1.0.0": {
+        "dependencies": {
+          "NG_Repository": "1.0.0",
+          "NG_data": "1.0.0"
+        },
+        "runtime": {
+          "NG.UI.dll": {}
+        }
+      },
+      "NG_data/1.0.0": {
+        "runtime": {
+          "NG_data.dll": {}
+        }
+      },
+      "NG_Repository/1.0.0": {
+        "dependencies": {
+          "NG_data": "1.0.0"
+        },
+        "runtime": {
+          "NG_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NG.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NG_data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NG_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

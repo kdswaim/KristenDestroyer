@@ -22,16 +22,5 @@
     {
         HealthPoints += pointValue;
     }
-
-    public virtual void Attack(Player player, int attackPower, string attackName)
-    {
-        if(player.HealthPoints > 0)
-        {
-            player.DecreaseHealth(attackPower);
-            System.Console.WriteLine("${Name} just hit you with {attackName}!\n" +
-            $"You lost {attackPower} health!");
-
-        }
-    }
     }
 

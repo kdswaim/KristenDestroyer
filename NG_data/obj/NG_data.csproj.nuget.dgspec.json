@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\NG_data\\NG_data.csproj": {}
+    "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\KristenDestroyer\\NG_data\\NG_data.csproj": {}
   },
   "projects": {
-    "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\NG_data\\NG_data.csproj": {
+    "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\KristenDestroyer\\NG_data\\NG_data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\NG_data\\NG_data.csproj",
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\KristenDestroyer\\NG_data\\NG_data.csproj",
         "projectName": "NG_data",
-        "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\NG_data\\NG_data.csproj",
+        "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\KristenDestroyer\\NG_data\\NG_data.csproj",
         "packagesPath": "C:\\Users\\kkilk\\.nuget\\packages\\",
-        "outputPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\NG_data\\obj\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\NewGame\\KristenDestroyer\\NG_data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
