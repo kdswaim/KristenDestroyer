@@ -25,7 +25,7 @@ public class ProgramUI
     {
         while (!enemy.IsDead)
         {
-            Console.WriteLine("Good! Now choose your weapon:");
+            Console.WriteLine("Choose your weapon:");
             Console.WriteLine("(1) Laser, (2) Criticism, (3) Karate, (4) Sulfa");
             string action = Console.ReadLine();
 
@@ -67,8 +67,6 @@ public class ProgramUI
     Console.WriteLine("Press any key to exit...");
     Console.ReadKey();
 }
-
-
     private void Clear()
     {
         Console.Clear();
